@@ -10,6 +10,7 @@
 - 新增数字员工 GUI 模板库：`04-数字员工GUI模板库.md`。
 - 新增 7 类 GUI 高保真 HTML 原型：`GUI高保真原型/index.html`。
 - 新增面向 CTO 协同开发的 README。
+- 新增 GitHub Pages 在线预览入口：`index.html`。
 
 ### 当前重点
 
